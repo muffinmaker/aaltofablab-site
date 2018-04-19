@@ -6,6 +6,6 @@ categories:
   - "faqs"
 ---
 
-Yes - you are welcome to come along to our Public Open Days!
+Yes - you are welcome to come along to our Public Open Days every Thursday from 12:00 - 16:00. Machines can not be reserved but are available on a first-come, first-served basis. 
 
-For most of the week, the Lab is reserved for Aalto University students, staff and researchers. But we do hold Public Open Days as often as we can. Check our [Events Page](/events) for upcoming open days.
+For the rest of the week, the Lab is reserved for Aalto University students, staff and researchers. 
